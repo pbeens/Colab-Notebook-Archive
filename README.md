@@ -2,6 +2,7 @@
 
 Some of my Colab notebooks that might be of interest to others.
 
+* [Distance_Between_Two_Points](https://github.com/pbeens/Colab-Notebook-Archive/blob/main/Distance_Between_Two_Points.ipynb) — `math.dist()` doesn't work in Colab so here's my version
 * [Email_Link_in_Colab](https://github.com/pbeens/Colab-Notebook-Archive/blob/main/Email_Link_in_Colab.ipynb) — A quick notebook I created to remind me how to insert working email links with the subject. For teachers creating Colab notebooks as assignments (which is a good idea, BTW), modify the subject so it reflects the assignment name.
 * [Math_Coding_Glossary_(Ontario)](https://github.com/pbeens/Colab-Notebook-Archive/blob/main/Math_Coding_Glossary_(Ontario).ipynb) — Created to support math teachers on Ontario that want to learn programming.
 * [Math_in_Python_(Demo,_Ties_to_Curriculum,_Resources)_August_2021](https://github.com/pbeens/Colab-Notebook-Archive/blob/main/Math_in_Python_(Demo%2C_Ties_to_Curriculum%2C_Resources)_August_2021.ipynb) — This was a presentation Grant Hutchison and I put on for Ontario Grade 9 math teachers.
