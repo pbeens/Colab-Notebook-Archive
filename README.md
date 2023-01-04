@@ -3,6 +3,7 @@
 Some of my Colab notebooks that might be of interest to others.
 
 * [Ambiguous_PEMDAS_Solved!](https://github.com/pbeens/Colab-Notebook-Archive/blob/main/Ambiguous_PEMDAS_Solved!.ipynb) — A fun look at a math problem that appeared in various social media.
+* [Current_Ontario_COVID_Data](https://github.com/pbeens/Colab-Notebook-Archive/blob/main/Current_Ontario_COVID_Data.ipynb) — Some Python code that was created using the OpenAI website, with some recommended activities to try.
 * [Distance_Between_Two_Points](https://github.com/pbeens/Colab-Notebook-Archive/blob/main/Distance_Between_Two_Points.ipynb) — `math.dist()` doesn't work in Colab so here's my version
 * [Email_Link_in_Colab](https://github.com/pbeens/Colab-Notebook-Archive/blob/main/Email_Link_in_Colab.ipynb) — A quick notebook I created to remind me how to insert working email links with the subject. For teachers creating Colab notebooks as assignments (which is a good idea, BTW), modify the subject so it reflects the assignment name.
 *  [Lighthouse_Labs_CSV_Downloader.ipynb](https://github.com/pbeens/Colab-Notebook-Archive/blob/main/Lighthouse_Labs_CSV_Downloader.ipynb) — Created this to download data files from the [Lighthouse Labs](https://www.lighthouselabs.ca/) challenges. Can be used for other Jupyter notebook sites as well.
